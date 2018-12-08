@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 23 11:59:10 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/nanc-macos/Desktop/OwnRepo/Recyler_MVVM_Retrofit_Dagger_RxJava/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

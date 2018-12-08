@@ -1,0 +1,4 @@
+#Sat Dec 08 13:52:57 IST 2018
+base.0=/Users/nanc-macos/Desktop/OwnRepo/Recyler_MVVM_Retrofit_Dagger_RxJava/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
